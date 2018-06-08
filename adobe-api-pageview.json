@@ -1,0 +1,11 @@
+{
+        "reportDescription":{
+            "source": "realtime",
+            "reportSuiteID":"yourreportSuiteID",
+            "dateFrom": "15 min ago",
+            "dateTo": "now",
+            "metrics":[
+                {"id":"pageviews"}
+            ]
+        }
+}
