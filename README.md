@@ -15,7 +15,7 @@ Edit adobe-api-pageview.json file with your reportSuiteID
 
 ### Prerequisites
 
-Adobe Analytics API credentials - Your API Username and Shared Secret can be found under Account Information in the Web Service section of Adobe Analytics.
+Adobe Analytics API credentials - Your API Username and Shared Secret can be found under Account Information in the Web Service section of Adobe Analytics. <br />
 jq - https://stedolan.github.io/jq/download/
 
 ## Running the script
